@@ -1,0 +1,1 @@
+print(3 + 7 * 2) # Fixed operator precedence
